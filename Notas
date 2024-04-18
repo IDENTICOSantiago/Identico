@@ -28,19 +28,20 @@ OPCIONES:
 		-Productos
 
 	-Configuración Inventario
--Impresoras
--Asociar Impresoras a Dispositivos
--Ubicaciones
+		-Impresoras
+		-Asociar Impresoras a Dispositivos
+		-Ubicaciones
 
--Inventario
+	-Inventario
+		-Inventario
 
 
 CRUD:
 	-Dispositivos
 	-Impresoras
 	-Asociar impresora a Dispositivo
--Inventario
+	-Inventario
 
 IMPORTANTE:
--Marcación
+	-Marcación
 	-Recolección de datos
