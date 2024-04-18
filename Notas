@@ -1,0 +1,46 @@
+SISTEMA DE CÓDIGO DE BARRAS
+
+Conectan la terminal (Motorola) a la computadora a través de la cuna.
+EveryWAN para tomar remotamente la pantalla de la terminal
+
+Abrir LDS Inventory
+Inicio de sesión
+Carga de datos (Actualización de datos que se han subido)
+
+
+*No hay opción para eliminar un/os elemento/s en específico
+*No hay opcion de busqueda
+*Hay que hacer el proceso de actualización por cada máquina
+*No hay edición de campos específicos (ejemplo: Dispositivos)
+*Mejorar Busqueda avanzada (Filtros)
+
+
+*Mantener la modificación de etiquetas
+*Validación para no repetir información (ejemplo: No repetir una creación de inventario con una misma ubicación)
+*Ver últimas capturas (Poder eliminar)
+
+
+OPCIONES:
+	-Administración
+		-Dispositivos
+
+	-Configuración carga
+		-Productos
+
+	-Configuración Inventario
+-Impresoras
+-Asociar Impresoras a Dispositivos
+-Ubicaciones
+
+-Inventario
+
+
+CRUD:
+	-Dispositivos
+	-Impresoras
+	-Asociar impresora a Dispositivo
+-Inventario
+
+IMPORTANTE:
+-Marcación
+	-Recolección de datos
